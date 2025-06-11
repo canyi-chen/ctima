@@ -17,5 +17,5 @@ Suggests:
 Config/testthat/edition: 3
 Imports: 
     stats
-URL: https://github.com/canyi-chen/ctima
+URL: https://websites.umich.edu/~songlab/software.html, https://github.com/canyi-chen/ctima
 BugReports: https://github.com/canyi-chen/ctima/issues
