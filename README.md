@@ -111,6 +111,9 @@ ctYlm.Mglm(
 )
 #> $p_value_NIE
 #> [1] 0
+#> 
+#> attr(,"class")
+#> [1] "ctYlm.Mglm.Result"
 ```
 
 ## Example 3
