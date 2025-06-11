@@ -7,8 +7,8 @@
 
 <!-- badges: end -->
 
-The goal of ctima is to assess whether and how a specific continuous or
-categorical exposure affects the outcome of interest through one
+The goal of `ctima` is to assess whether and how a specific continuous
+or categorical exposure affects the outcome of interest through one
 mediator using a two-way cross test (CT). The CT method allows to make
 inference for composite null hypotheses of no mediation effect,
 providing valid type I error control and thus optimizes statistical
@@ -27,7 +27,7 @@ devtools::install_github("canyi-chen/ctima")
 
 ## Example 1
 
-This is a single example that shows steps of using the cross test (CT)
+This is an example that shows steps of using the cross test `abYlm.Mglm`
 to test for the null hypothesis of no mediation effect under the linear
 structural equation models.
 
@@ -79,8 +79,8 @@ ctYlm.Mglm(
 
 ## Example 2
 
-This example shows the use of abYlm.Mglm function for generalized linear
-model on the mediator.
+This example shows the use of `abYlm.Mglm` function for generalized
+linear model on the mediator.
 
 ``` r
 library(ctima)
