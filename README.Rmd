@@ -101,7 +101,7 @@ ctYlm.Mglm(
 
 ## Example 3
 
-This exmaple shows that the performance of adaptive bootstrap test in the type I error control under the composite null hypothesis.
+This example shows that the performance of cross test in the type I error control under the composite null hypothesis.
 
 ```{r}
 ## Load libraries
