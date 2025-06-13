@@ -27,7 +27,7 @@ devtools::install_github("canyi-chen/ctima")
 
 ## Example 1
 
-This is an example that shows steps of using the cross test `abYlm.Mglm`
+This is an example that shows steps of using the cross test `ctYlm.Mglm`
 to test for the null hypothesis of no mediation effect under the linear
 structural equation models.
 
@@ -79,7 +79,7 @@ ctYlm.Mglm(
 
 ## Example 2
 
-This example shows the use of `abYlm.Mglm` function for generalized
+This example shows the use of `ctYlm.Mglm` function for generalized
 linear model on the mediator.
 
 ``` r
